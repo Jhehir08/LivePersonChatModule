@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jhehir/AndroidStudioProjects/LivePersonChatModule/lp_messaging_sdk/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/jhehir/.android/build-cache/04eedc6d6b92ad1b84f93131775056df965668a8/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/jhehir/AndroidStudioProjects/LivePersonChatModule/lp_messaging_sdk/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/jhehir/.android/build-cache/04eedc6d6b92ad1b84f93131775056df965668a8/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/jhehir/AndroidStudioProjects/LivePersonChatModule/lp_messaging_sdk/build/intermediates/res/merged/androidTest/debug/animator/lpmessaging_ui_reveal_item_menu_item.xml",
+        "source": "/Users/jhehir/.android/build-cache/10b9ae3c21d56ac2a55e309f41d5c1b48c802afa/output/res/animator/lpmessaging_ui_reveal_item_menu_item.xml"
+    },
+    {
+        "merged": "/Users/jhehir/AndroidStudioProjects/LivePersonChatModule/lp_messaging_sdk/build/intermediates/res/merged/androidTest/debug/animator/lpmessaging_ui_hide_item_menu_item.xml",
+        "source": "/Users/jhehir/.android/build-cache/10b9ae3c21d56ac2a55e309f41d5c1b48c802afa/output/res/animator/lpmessaging_ui_hide_item_menu_item.xml"
+    },
+    {
+        "merged": "/Users/jhehir/AndroidStudioProjects/LivePersonChatModule/lp_messaging_sdk/build/intermediates/res/merged/androidTest/debug/animator/lpmessaging_ui_reveal_attachment_menu.xml",
+        "source": "/Users/jhehir/.android/build-cache/10b9ae3c21d56ac2a55e309f41d5c1b48c802afa/output/res/animator/lpmessaging_ui_reveal_attachment_menu.xml"
+    },
+    {
+        "merged": "/Users/jhehir/AndroidStudioProjects/LivePersonChatModule/lp_messaging_sdk/build/intermediates/res/merged/androidTest/debug/animator/lpmessaging_ui_hide_item_menu_text.xml",
+        "source": "/Users/jhehir/.android/build-cache/10b9ae3c21d56ac2a55e309f41d5c1b48c802afa/output/res/animator/lpmessaging_ui_hide_item_menu_text.xml"
+    },
+    {
+        "merged": "/Users/jhehir/AndroidStudioProjects/LivePersonChatModule/lp_messaging_sdk/build/intermediates/res/merged/androidTest/debug/animator/lpmessaging_ui_hide_attachment_menu.xml",
+        "source": "/Users/jhehir/.android/build-cache/10b9ae3c21d56ac2a55e309f41d5c1b48c802afa/output/res/animator/lpmessaging_ui_hide_attachment_menu.xml"
+    },
+    {
+        "merged": "/Users/jhehir/AndroidStudioProjects/LivePersonChatModule/lp_messaging_sdk/build/intermediates/res/merged/androidTest/debug/animator/lpmessaging_ui_reveal_item_menu_text.xml",
+        "source": "/Users/jhehir/.android/build-cache/10b9ae3c21d56ac2a55e309f41d5c1b48c802afa/output/res/animator/lpmessaging_ui_reveal_item_menu_text.xml"
+    }
+]

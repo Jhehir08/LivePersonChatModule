@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/jhehir/AndroidStudioProjects/LivePersonChatModule/lp_messaging_sdk/build/intermediates/res/merged/androidTest/debug/menu/lpmessaging_ui_item_copy_menu.xml",
+        "source": "/Users/jhehir/.android/build-cache/10b9ae3c21d56ac2a55e309f41d5c1b48c802afa/output/res/menu/lpmessaging_ui_item_copy_menu.xml"
+    },
+    {
+        "merged": "/Users/jhehir/AndroidStudioProjects/LivePersonChatModule/lp_messaging_sdk/build/intermediates/res/merged/androidTest/debug/menu/lpmessaging_ui_caption_send_menu.xml",
+        "source": "/Users/jhehir/.android/build-cache/10b9ae3c21d56ac2a55e309f41d5c1b48c802afa/output/res/menu/lpmessaging_ui_caption_send_menu.xml"
+    },
+    {
+        "merged": "/Users/jhehir/AndroidStudioProjects/LivePersonChatModule/lp_messaging_sdk/build/intermediates/res/merged/androidTest/debug/menu/lpmessaging_ui_item_conversation_actions_menu.xml",
+        "source": "/Users/jhehir/.android/build-cache/10b9ae3c21d56ac2a55e309f41d5c1b48c802afa/output/res/menu/lpmessaging_ui_item_conversation_actions_menu.xml"
+    }
+]
